@@ -1,6 +1,0 @@
-{
-  "name": "FolioFlip - Visor de Portafolios en Libro Interactivo",
-  "description": "Publica y visualiza portafolios en PDF con efecto de libro interactivo realista 3D, soporte de hasta 500MB y 100 páginas en máxima resolución HD, adaptable a móviles y escritorio.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
